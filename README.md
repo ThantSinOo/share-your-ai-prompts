@@ -1,34 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Project Status
 
-## Getting Started
+🚧 Under Development 🚧
 
-First, run the development server:
+This project is currently in active development. Features may be incomplete, and significant changes can be expected.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Project Overview:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+The project is a social platform designed to facilitate the sharing of AI prompts. Users can effortlessly create accounts using their Gmail credentials, ensuring a seamless onboarding process. The platform's primary features include the ability to share AI prompts, search for prompts posted by other users, and engage in a collaborative environment focused on artificial intelligence.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Key Features:
 
-## Learn More
+    Account Creation:
+        Users can quickly create accounts using their Gmail credentials, streamlining the registration process.
 
-To learn more about Next.js, take a look at the following resources:
+    AI Prompt Sharing:
+        The platform allows users to share AI prompts, fostering a community of individuals interested in effective and valuable prompts.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+    Search Functionality:
+        Users can easily search for and discover AI prompts contributed by other members of the platform.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+    Authentication:
+        OAuth 2 is implemented for secure authentication and login, ensuring user data is protected.
 
-## Deploy on Vercel
+    Web Framework:
+        The frontend of the platform is built using Next.js and React, providing a modern and responsive user interface.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+    Database:
+        MongoDB is employed as the database to store user data and AI prompts efficiently.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Software Stack:
+
+The project utilizes a comprehensive software stack, including Next.js and React. MongoDB as the chosen database. This combination of technologies ensures a robust and scalable solution.
+
+
+Acknowledgments:
+
+Credit is given to any third-party libraries, tools, or sources of inspiration that have contributed to the development of the project.
